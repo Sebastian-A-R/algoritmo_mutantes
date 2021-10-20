@@ -13,8 +13,4 @@ class Generador:
             dna.append(fila)
         return dna
 
-if __name__ == "__main:__":
 
-    generador = Generador()
-    print(generador.generate())
-    print("hola")
